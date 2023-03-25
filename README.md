@@ -1,4 +1,4 @@
-![](AX2048_INF.png)
+![](AX2048_INF_new.png)
 ---
 
 ### Hi there 👋
